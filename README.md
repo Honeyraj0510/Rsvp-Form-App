@@ -53,7 +53,5 @@ You’ll see the RSVP form page, where you can submit and view responses.
 dotnet restore.
 
 
-Open your browser and visit:
-👉 https://localhost:5001 or http://localhost:5000
 
-You’ll see the RSVP form page, where you can submit and view responses.
+
